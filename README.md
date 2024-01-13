@@ -25,8 +25,7 @@ The following image shows the web application's appearance and functionality:
 ![This app is built with the use of Javascript, Node.js, NPM and the Inquirer library.](./resources/readme-demo.gif)
 
 ## Showcase
-To get a better view at what is happening in this project, follow the link below.
-[Link to showcase ->](https://youtu.be/s7dbWuTpbjc)
+To get a better view at what is happening in this project, this link will take you to a better video [on YouTube ->](https://youtu.be/s7dbWuTpbjc)
 
 ## Tests
 Does not require testing.
