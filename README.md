@@ -16,10 +16,13 @@ What makes my project stand out is that it solves a real world problem that many
 - [Questions](#questions)
 
 ## Installation
-To install this project, simply run the command 'npm install' inside the folder of this repo and once all dependecies are installed run the command 'node index.js'.
+To install this project, open the terminal and simply run the command 'npm install' inside the folder of this repo, once all dependecies are installed run the command 'node index.js'.
 
 ## Usage
 The project should be used any time you need to create documentation for your GitHub repository.
+The following image shows the web application's appearance and functionality:
+
+![This app is built with the use of Javascript, Node.js, NPM and the Inquirer library.](./resources/readme-demo.gif)
 
 ## Tests
 Does not require testing.
